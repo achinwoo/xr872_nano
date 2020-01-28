@@ -2,9 +2,6 @@
 
 ![image](https://github.com/achinwoo/xr872_nano/blob/master/doc/top.jpg)
 
-https://item.taobao.com/item.htm?id=611292364239
-
-
 XRADIO Skylark SDK supports XR872/XR808 series wireless MCUs.
 
 
@@ -37,6 +34,8 @@ XRADIO Skylark SDK supports XR872/XR808 series wireless MCUs.
 
 
 ## Links
+
+- TAOBAO: https://item.taobao.com/item.htm?id=611292364239
 
 - SDK: https://github.com/XradioTech/xradio-skylark-sdk.git
 - WiKi: https://github.com/XradioTech/xradiotech-wiki.git
